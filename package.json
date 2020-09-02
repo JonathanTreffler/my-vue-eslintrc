@@ -19,7 +19,7 @@
     "url": "https://github.com/JonathanTreffler/my-vue-eslintrc/issues"
   },
   "homepage": "https://github.com/JonathanTreffler/my-vue-eslintrc#readme",
-  "devDependencies": {
+  "dependencies": {
     "eslint-plugin-vue": "^6.2.2"
   }
 }
