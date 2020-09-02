@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jonathantreffler",
-  "version": "1.1.0",
+  "version": "1.4.0",
   "description": "",
   "main": ".eslintrc.js",
   "scripts": {},
@@ -19,7 +19,7 @@
     "url": "https://github.com/JonathanTreffler/my-vue-eslintrc/issues"
   },
   "homepage": "https://github.com/JonathanTreffler/my-vue-eslintrc#readme",
-  "devDependencies": {
+  "dependencies": {
     "eslint-plugin-vue": "^6.2.2"
   },
   "dependencies": {
