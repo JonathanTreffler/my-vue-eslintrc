@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/JonathanTreffler/my-vue-eslintrc#readme",
   "dependencies": {
-    "eslint-plugin-vue": "^7.0.0",
+    "eslint-plugin-vue": "^9.0.0",
     "eslint": "^7.8.1"
   }
 }
